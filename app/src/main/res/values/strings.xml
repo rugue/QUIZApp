@@ -1,0 +1,38 @@
+<resources>
+    <string name="begin_quiz">Let\'s Begin</string>
+    <string name="your_name">Your Name</string>
+    <string name="app_name">African Geography</string>
+    <string name="how_well">How well do you know</string>
+    <string name="submit">Submit</string>
+    <string name="quit_quiz">Quit</string>
+    <string name="reset">Reset</string>
+    <string name="empty">" "</string>
+    <string name="emptyForMessage"> \n </string>
+
+    <string name="question_1">1. In what country does the Niger River empty into the Atlantic Ocean?</string>
+    <string name="answer1_1">Niger</string>
+    <string name="answer1_2">Nigeria</string>
+    <string name="answer1_3">Mali</string>
+    <string name="answer1_4">Benin</string>
+
+    <string name="question_2">2. Which is NOT a desert in Africa? (Select the answers that apply)</string>
+    <string name="answer2_1">Namib desert</string>
+    <string name="answer2_2">Colorado desert</string>
+    <string name="answer2_3">Sahara desert</string>
+    <string name="answer2_4">Kilimajaro desert</string>
+
+    <string name="question_3">3. European traders called part of the West African coast the Ivory Coast. It\'s now an independent country with a French name. What is it?</string>
+    <string name="answer3_1">Cote d\'Azur</string>
+    <string name="answer3_2">Cote d\'Ivoire</string>
+    <string name="answer3_3">Pays de la Loire</string>
+    <string name="answer3_4">Poitou-Charentes</string>
+
+    <string name="question_4">4. In which country is the Sambisa forest located?</string>
+    <string name="name_of_country">Type the name of the Country</string>
+
+    <string name="question_5">5. Mount Kilimanjaro rises to the east of the Serengeti. Mount Kilimanjaro is a dormant volcano, which means that it</string>
+    <string name="answer5_1">Erupts frequently</string>
+    <string name="answer5_2">Has been a long time since it erupted</string>
+    <string name="answer5_3">Will never erupt again</string>
+    <string name="answer5_4">Once lay under the sea</string>
+</resources>
