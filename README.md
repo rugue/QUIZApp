@@ -20,4 +20,4 @@ Start the App
 - A Quit button
 
 ## Link to download at the App
-The apk can be downloaded from [here](https://drive.google.com/drive/folders/1IV6ZTUlP2oOXPdSsJm5S2eDsHzFRIzPq).
+The apk can be downloaded from [here](https://drive.google.com/open?id=17S9fPJvxdjE7GLGafwbslkwqXN0O0DlE).
